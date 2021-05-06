@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-memory 20090417133203\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.17 13:32+0300\n"
+"PO-Revision-Date: 2009.04.17 13:32+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "memo_bd_details"
+msgstr "Details"
+
+msgid "memo_ia_corrupt_card"
+msgstr "(Speicherkarte beschädigt)"
+
+msgid "memo_ia_pc_connected"
+msgstr "(USB-Kabel angeschlossen)"
+
+msgid "memo_li_available_space"
+msgstr "%s verfügbar"
+
+msgid "memo_ti_application_memory"
+msgstr "Speicher für installierbare Anwendungen"
+
+msgid "memo_ti_card_removable"
+msgstr "Speicherkarte"
+
+msgid "memo_ti_memory"
+msgstr "Speicher"
+
+msgid "memo_ti_memorynote_device"
+msgstr "Gerät"
+
+msgid "sfil_fi_storage_details_available"
+msgstr "Verfügbar"
+
+msgid "sfil_fi_storage_details_in_use"
+msgstr "Benutzerdateien"
+
+msgid "sfil_fi_storage_details_in_use_system"
+msgstr "Vom System verwendet"
+
+msgid "sfil_fi_storage_details_name"
+msgstr "Name"
+
+msgid "sfil_fi_storage_details_readonly"
+msgstr "Datenspeicher ist schreibgeschützt"
+
+msgid "sfil_fi_storage_details_size"
+msgstr "Gesamtgröße"
+
+msgid "sfil_fi_storage_details_type"
+msgstr "Typ"
+
+msgid "sfil_li_contacts"
+msgstr "Kontakte"
+
+msgid "sfil_li_documents"
+msgstr "Dokumente"
+
+msgid "sfil_li_emails"
+msgstr "E-Mails"
+
+msgid "sfil_li_images"
+msgstr "Bilder"
+
+msgid "sfil_li_other_files"
+msgstr "Andere Dateien"
+
+msgid "sfil_li_sound_clips"
+msgstr "Audioclips"
+
+msgid "sfil_li_storage_details_no_data"
+msgstr "(Keine Daten)"
+
+msgid "sfil_li_video_clips"
+msgstr "Videoclips"
+
+msgid "sfil_li_web_pages"
+msgstr "Internetseiten"
+
+msgid "sfil_ti_storage_details"
+msgstr "Speicherdetails"
+
+msgid "sfil_va_type_internal_memory"
+msgstr "Gerätespeicher"
+
+msgid "sfil_va_type_removable_memorycard"
+msgstr "Speicherkarte"
+
+msgid "sfil_va_type_removable_storage"
+msgstr "Austauschbarer Speicher"
+
+msgid "sfil_va_unknown"
+msgstr "Unbekannt"

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-memory 20090417133203\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.17 13:32+0300\n"
+"PO-Revision-Date: 2009.04.17 13:32+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "memo_bd_details"
+msgstr "Свойства"
+
+msgid "memo_ia_corrupt_card"
+msgstr "(карта памяти повреждена)"
+
+msgid "memo_ia_pc_connected"
+msgstr "(USB -кабель подключен)"
+
+msgid "memo_li_available_space"
+msgstr "%s доступно"
+
+msgid "memo_ti_application_memory"
+msgstr "Память для устанавливаемых приложений"
+
+msgid "memo_ti_card_removable"
+msgstr "Карта памяти"
+
+msgid "memo_ti_memory"
+msgstr "Память"
+
+msgid "memo_ti_memorynote_device"
+msgstr "Устройство"
+
+msgid "sfil_fi_storage_details_available"
+msgstr "Доступно"
+
+msgid "sfil_fi_storage_details_in_use"
+msgstr "Файлы пользователя"
+
+msgid "sfil_fi_storage_details_in_use_system"
+msgstr "Используется системой"
+
+msgid "sfil_fi_storage_details_name"
+msgstr "Имя"
+
+msgid "sfil_fi_storage_details_readonly"
+msgstr "Память только для чтения"
+
+msgid "sfil_fi_storage_details_size"
+msgstr "Общий объем"
+
+msgid "sfil_fi_storage_details_type"
+msgstr "Тип"
+
+msgid "sfil_li_contacts"
+msgstr "Контакты"
+
+msgid "sfil_li_documents"
+msgstr "Документы"
+
+msgid "sfil_li_emails"
+msgstr "Сообщения"
+
+msgid "sfil_li_images"
+msgstr "Изображения"
+
+msgid "sfil_li_other_files"
+msgstr "Другие файлы"
+
+msgid "sfil_li_sound_clips"
+msgstr "Аудиоклипы"
+
+msgid "sfil_li_storage_details_no_data"
+msgstr "(нет данных)"
+
+msgid "sfil_li_video_clips"
+msgstr "Видеоклипы"
+
+msgid "sfil_li_web_pages"
+msgstr "Веб-страницы"
+
+msgid "sfil_ti_storage_details"
+msgstr "Свойства носителя"
+
+msgid "sfil_va_type_internal_memory"
+msgstr "Память устройства"
+
+msgid "sfil_va_type_removable_memorycard"
+msgstr "Карта памяти"
+
+msgid "sfil_va_type_removable_storage"
+msgstr "Съемный носитель"
+
+msgid "sfil_va_unknown"
+msgstr "Неизвестно"
