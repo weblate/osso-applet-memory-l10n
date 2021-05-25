@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-memory 20090417133203\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.17 13:32+0300\n"
+"PO-Revision-Date: 2010-04-27 23:25+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "memo_bd_details"
+msgstr "التفاصيل"
+
+msgid "memo_ia_corrupt_card"
+msgstr "(كرت الذاكرة تالف)"
+
+msgid "memo_ia_pc_connected"
+msgstr "( USB تم التوصيل عبر )"
+
+msgid "memo_li_available_space"
+msgstr "%s متوفر"
+
+msgid "memo_ti_application_memory"
+msgstr "الذاكرة المستخدمة للتطبيقات"
+
+msgid "memo_ti_card_removable"
+msgstr "كرت الذاكرة"
+
+msgid "memo_ti_memory"
+msgstr "الذاكرة"
+
+msgid "memo_ti_memorynote_device"
+msgstr "الجهاز"
+
+msgid "sfil_fi_storage_details_available"
+msgstr "المتوفر"
+
+msgid "sfil_fi_storage_details_in_use"
+msgstr "الملفات المستخدمة"
+
+msgid "sfil_fi_storage_details_in_use_system"
+msgstr "مستخدمة من النظام"
+
+msgid "sfil_fi_storage_details_name"
+msgstr "الأسم"
+
+msgid "sfil_fi_storage_details_readonly"
+msgstr "التخزين للقراءه فقط"
+
+msgid "sfil_fi_storage_details_size"
+msgstr "الحجم الكلي"
+
+msgid "sfil_fi_storage_details_type"
+msgstr "النوع"
+
+msgid "sfil_li_contacts"
+msgstr "جهات الأتصال"
+
+msgid "sfil_li_documents"
+msgstr "المستندات"
+
+msgid "sfil_li_emails"
+msgstr "البريد الألكتروني"
+
+msgid "sfil_li_images"
+msgstr "الصور"
+
+msgid "sfil_li_other_files"
+msgstr "ملفات أخرى"
+
+msgid "sfil_li_sound_clips"
+msgstr "ملفات الصوت"
+
+msgid "sfil_li_storage_details_no_data"
+msgstr "(لاتوجد بينات)"
+
+msgid "sfil_li_video_clips"
+msgstr "الفيديوهات"
+
+msgid "sfil_li_web_pages"
+msgstr "صفحات الأنترنت"
+
+msgid "sfil_ti_storage_details"
+msgstr "تفاصيل التخزين"
+
+msgid "sfil_va_type_internal_memory"
+msgstr "ذاكرة الجهاز"
+
+msgid "sfil_va_type_removable_memorycard"
+msgstr "كرت الذاكرة"
+
+msgid "sfil_va_type_removable_storage"
+msgstr "وحدة تخزين قابلة للأزالة"
+
+msgid "sfil_va_unknown"
+msgstr "غير معروف"
+
