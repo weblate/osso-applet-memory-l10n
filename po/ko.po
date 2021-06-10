@@ -1,0 +1,102 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.04.17 13:32+0300\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "memo_bd_details"
+msgstr "자세히"
+
+msgid "memo_ia_corrupt_card"
+msgstr "(비정상적인 메모리 카드)"
+
+msgid "memo_ia_pc_connected"
+msgstr "(USB 케이블 연결됨)"
+
+msgid "memo_li_available_space"
+msgstr "%s 사용 가능"
+
+msgid "memo_ti_application_memory"
+msgstr "어플리케이션 설치 가능한 메모리"
+
+msgid "memo_ti_card_removable"
+msgstr "메모리 카드"
+
+msgid "memo_ti_memory"
+msgstr "메모리"
+
+msgid "memo_ti_memorynote_device"
+msgstr "장치"
+
+msgid "sfil_fi_storage_details_available"
+msgstr "사용 가능량"
+
+msgid "sfil_fi_storage_details_in_use"
+msgstr "사용자 파일"
+
+msgid "sfil_fi_storage_details_in_use_system"
+msgstr "시스템 파일"
+
+msgid "sfil_fi_storage_details_name"
+msgstr "이름"
+
+msgid "sfil_fi_storage_details_readonly"
+msgstr "읽기 전용 저장소"
+
+msgid "sfil_fi_storage_details_size"
+msgstr "총 크기"
+
+msgid "sfil_fi_storage_details_type"
+msgstr "타입"
+
+msgid "sfil_li_contacts"
+msgstr "연락처"
+
+msgid "sfil_li_documents"
+msgstr "문서"
+
+msgid "sfil_li_emails"
+msgstr "이메일"
+
+msgid "sfil_li_images"
+msgstr "이미지"
+
+msgid "sfil_li_other_files"
+msgstr "기타 파일"
+
+msgid "sfil_li_sound_clips"
+msgstr "오디오"
+
+msgid "sfil_li_storage_details_no_data"
+msgstr "(데이터 없음)"
+
+msgid "sfil_li_video_clips"
+msgstr "비디오"
+
+msgid "sfil_li_web_pages"
+msgstr "웹 페이지"
+
+msgid "sfil_ti_storage_details"
+msgstr "저장소 정보"
+
+msgid "sfil_va_type_internal_memory"
+msgstr "장치 메모리"
+
+msgid "sfil_va_type_removable_memorycard"
+msgstr "메모리 카드"
+
+msgid "sfil_va_type_removable_storage"
+msgstr "이동형 저장소"
+
+msgid "sfil_va_unknown"
+msgstr "알 수 없음"
